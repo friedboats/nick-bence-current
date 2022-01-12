@@ -1,2 +1,5 @@
 # nick-bence-current
-Nick Bence's website
+
+## About
+
+This is my personal website.
