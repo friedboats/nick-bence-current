@@ -2,4 +2,4 @@
 
 ## About
 
-This is my personal website.
+This is the api for my personal website.
